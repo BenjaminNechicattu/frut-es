@@ -1,6 +1,6 @@
 {
     "port" : 8088,
-    "logfilepath" : "",
+    "logfilepath" : "/Users/benjamin/Documents/Projects/frut-es/scratch/logs/log.log",
     "mysqlconfig" :  {
         "host" : "0.0.0.0",
         "port" : 3306,

@@ -1,0 +1,12 @@
+{
+    "port" : 8088,
+    "logfilepath" : "",
+    "mysqlconfig" :  {
+        "host" : "0.0.0.0",
+        "port" : 3306,
+        "database" : "frutes",
+        "user" : "root",
+        "password" : "1234",
+        "dsn" : ""
+    }
+}
